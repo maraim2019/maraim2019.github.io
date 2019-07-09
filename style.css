@@ -1,0 +1,33 @@
+.profile-picture {
+Border-radius: 50%;
+}
+
+html, body{
+   Display:flex;
+   Align-items: center;
+   Justify-content: center;
+Height:100%;
+Margin:0px;
+Padding:0px;
+
+font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper {
+Background-color: lightpink; 
+}
+
+.body {
+  background: linear-gradient(to bottom, rgba(231, 240, 245, 1) 0%, rgba(170, 221, 235, 1) 100%);
+}
+
+.social-links{
+List-style: none;
+Padding-left: 0px;
+Font-size: 18px;
+}
+
+.social-links li{
+Display: inline-block;
+Margin-right: 8px;
+}
